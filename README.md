@@ -13,7 +13,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://sweta-raj31.github.io/My_Portfolio/" target="_blank"><img src="examples/preview.gif">
+    <a href="https://sweta-raj31.github.io/My_Portfolio/" target="_blank"><img src="examples/Screenshot (728).png">
   </a>
   </kbd>
 </p>
